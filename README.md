@@ -1,16 +1,13 @@
-## Hi there 👋
+Hi, I'm Rubina Bibi 
 
-<!--
-**Rubina-Bibi/Rubina-Bibi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ Fun fact: I'm a BS Computer Science student (7th semester) and a Certified Generative AI Application Developer.
 
-Here are some ideas to get you started:
+ I'm currently working on: Web Development & Mobile Application projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ I'm looking to collaborate on: Open Source projects on GitHub (OSS contributions)
+
+ I'm looking for help with: Web Development with AI Integration
+
+ I'm currently learning: AI Integration in Web Development
+
+💬 Ask me about: Web Development, Mobile App Development, or Generative AI
